@@ -1,1 +1,3 @@
-Alex has a fish and a dog. 
+
+Alex has a cat, a fish and a dog. 
+
